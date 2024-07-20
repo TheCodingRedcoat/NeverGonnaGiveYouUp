@@ -1,7 +1,7 @@
 body {
   margin: 40px auto;
-  max-width: 720px;
-  line-height: 1.6;
+  max-width: 640px;
+  line-height: 1.4;
   font-size: 18px;
   font-family: "helvetica neue", sans-serif;
   color: #202020;
@@ -19,8 +19,4 @@ a:link {
   
 a:visited {
   color: #c8102e;
-}
-
-hr {
-  border: 2px solid #c8102e;
 }
