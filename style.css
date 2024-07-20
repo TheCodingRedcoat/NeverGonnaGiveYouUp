@@ -1,0 +1,26 @@
+body {
+  margin: 40px auto;
+  max-width: 720px;
+  line-height: 1.6;
+  font-size: 18px;
+  font-family: "helvetica neue", sans-serif;
+  color: #202020;
+  padding: 0 10px;
+}
+
+.darkMode {
+  background-color: #202020;
+  color: #ffffff;
+}
+
+a:link {
+  color: #3270f6;
+}
+  
+a:visited {
+  color: #c8102e;
+}
+
+hr {
+  border: 2px solid #c8102e;
+}
